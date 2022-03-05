@@ -1,0 +1,70 @@
+{
+  "info": {
+    "title_en": "আপনাদের এই অ্যাপটির ডেভেলপমেন্ট চালিয়ে নিতে সহযোগিতা করুন",
+    "title_bn": "আপনাদের এই অ্যাপটির ডেভেলপমেন্ট চালিয়ে নিতে সহযোগিতা করুন",
+    "message_en": "<body>\nThis message should be basic HTML-CSS supported document. From Admin panel we will use rich text editor.\n</body>",
+    "message_bn": "<body>\nThis message should be basic HTML-CSS supported document. From Admin panel we will use rich text editor.\n</body>"
+  },
+  "accounts": [
+    {
+      "account_name": "",
+      "account_number": "01521101145",
+      "account_type": "Personal",
+      "bank_or_wallet_name": "বিকাশ (সেন্ড মানি করুন)",
+      "branch": "",
+      "isBank": false,
+      "isEnable": true,
+      "routing_number": "",
+      "swift_code": "",
+      "additional_info": "Account holder name: Abdullah Al Hasan"
+    },
+    {
+      "account_name": "",
+      "account_number": "01521101145",
+      "account_type": "Personal",
+      "bank_or_wallet_name": "নগদ (সেন্ড মানি করুন)",
+      "branch": "",
+      "isBank": false,
+      "isEnable": true,
+      "routing_number": "",
+      "swift_code": "",
+      "additional_info": "Account holder name: Abdullah Al Hasan"
+    },
+    {
+      "account_name": "",
+      "account_number": "01521101145",
+      "account_type": "Personal",
+      "bank_or_wallet_name": "রকেট (সেন্ড মানি করুন)",
+      "branch": "",
+      "isBank": false,
+      "isEnable": true,
+      "routing_number": "",
+      "swift_code": "",
+      "additional_info": "Account holder name: Abdullah Al Hasan"
+    },
+    {
+      "account_name": "Abdullah Al Hasan",
+      "account_number": "20502100204303506",
+      "account_type": "Savings Account",
+      "bank_or_wallet_name": "Islami Bank Bangladesh Ltd",
+      "branch": "Mirpur 1 (Dhaka North)",
+      "isBank": true,
+      "isEnable": true,
+      "routing_number": "125263106",
+      "swift_code": "IBBLBDDH210",
+      "additional_info": "Account holder address: 16/7, Paikpara (D type) Colony, Mirpur 1, Dhaka 1216\nAccount holder phone: 01521101145"
+    },
+    {
+      "account_name": "Abdullah Al Hasan",
+      "account_number": "1442518777001",
+      "account_type": "Current Account",
+      "bank_or_wallet_name": "The City Bank",
+      "branch": "Banani (Dhaka North)",
+      "isBank": true,
+      "isEnable": true,
+      "routing_number": "225260438",
+      "swift_code": "CIBLBDDH",
+      "additional_info": "Account holder address: 16/7, Paikpara (D type) Colony, Mirpur 1, Dhaka 1216\nAccount holder phone: 01521101145"
+    }
+  ]
+}
