@@ -2,25 +2,97 @@
   {
     "order": 1,
     "name_en": "Muharram",
-    "name_bn": "Muharram",
-    "hijri_year": 1443,
+    "name_bn": "মুহাররম",
     "start": "2021-08-11",
-    "end": "2021-09-08"
+    "end": "2021-09-08",
+    "hijri_year": "1443"
   },
-    {
+  {
     "order": 2,
-    "name_en": "Muharram",
-    "name_bn": "Muharram",
-    "hijri_year": 1443,
-    "start": "2021-08-11",
-    "end": "2021-09-08"
+    "name_en": "Safar",
+    "name_bn": "সফর",
+    "start": "2021-09-09",
+    "end": "2021-10-08",
+    "hijri_year": "1443"
   },
-    {
+  {
     "order": 3,
-    "name_en": "Muharram",
-    "name_bn": "Muharram",
-    "hijri_year": 1443,
-    "start": "2021-08-11",
-    "end": "2021-09-08"
+    "name_en": "Rabi Ul Awwal",
+    "name_bn": "রবিউল আউয়াল",
+    "start": "2021-10-09",
+    "end": "2021-11-06",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 4,
+    "name_en": "Rabi Us Sani",
+    "name_bn": "রবিউস সানী",
+    "start": "2021-11-07",
+    "end": "2021-12-05",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 5,
+    "name_en": "Jumadal Awwal",
+    "name_bn": "জুমাদাল আউয়াল",
+    "start": "2021-12-06",
+    "end": "2022-01-04",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 6,
+    "name_en": "Jumadas Sani",
+    "name_bn": "জুমাদাস সানী",
+    "start": "2022-01-05",
+    "end": "2022-02-02",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 7,
+    "name_en": "Rajab",
+    "name_bn": "রজব",
+    "start": "2022-02-03",
+    "end": "2022-03-04",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 8,
+    "name_en": "Shaban",
+    "name_bn": "শাবান",
+    "start": "2022-03-05",
+    "end": "2022-04-02",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 9,
+    "name_en": "Ramadan",
+    "name_bn": "রমজান",
+    "start": "2022-04-03",
+    "end": "2022-05-02",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 10,
+    "name_en": "Shawwal",
+    "name_bn": "শাওয়াল",
+    "start": "2021-05-14",
+    "end": "2021-06-12",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 11,
+    "name_en": "Jilqaq",
+    "name_bn": "জিলকদ",
+    "start": "2021-06-13",
+    "end": "2021-07-11",
+    "hijri_year": "1443"
+  },
+  {
+    "order": 12,
+    "name_en": "Jilhajj",
+    "name_bn": "জিলহজ্জ",
+    "start": "2021-07-12",
+    "end": "2021-08-10",
+    "hijri_year": "1443"
   }
 ]
