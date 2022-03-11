@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ad",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/ad.json",
+    "updated_at": 1640584560
+  },
+  {
+    "name": "app_info",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/app_info.json",
+    "updated_at": 1618127647
+  },
+  {
+    "name": "ifa_time",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/ifa_time.json",
+    "updated_at": 1616914472
+  },
+  {
+    "name": "donation",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/donation.json",
+    "updated_at": 1634005301
+  },
+  {
+    "name": "hijri_date",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/hijri_date.json",
+    "updated_at": 1615798055
+  }
+]
