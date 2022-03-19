@@ -12,7 +12,7 @@
   {
     "name": "ifa_time",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/ifa_time.json",
-    "updated_at": 1616914472
+    "updated_at": 1616914473
   },
   {
     "name": "donation",
@@ -22,6 +22,6 @@
   {
     "name": "hijri_date",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/hijri_date.json",
-    "updated_at": 1615798055
+    "updated_at": 1615798056
   }
 ]
