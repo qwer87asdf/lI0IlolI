@@ -5,8 +5,13 @@
     "updated_at": 1640584560
   },
   {
-    "name": "app_info",
-    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/app_info.json",
+    "name": "about_us",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/about_us.json",
+    "updated_at": 1618127648
+  },
+  {
+    "name": "change_log",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/change_log.json",
     "updated_at": 1618127648
   },
   {
