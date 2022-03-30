@@ -28,5 +28,15 @@
     "name": "hijri_date",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/hijri_date.json",
     "updated_at": 1615798056
+  },
+  {
+    "name": "salat_reference",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/salat_reference.json",
+    "updated_at": 1615798056
+  },
+  {
+    "name": "prohibited_time_reference",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/prohibited_time_reference.json",
+    "updated_at": 1615798056
   }
 ]
