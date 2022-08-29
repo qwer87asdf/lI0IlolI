@@ -4,24 +4,24 @@
     "name_en": "Muharram",
     "name_bn": "মুহাররম",
     "start": "2022-07-31",
-    "end": "2022-08-29",
+    "end": "2022-08-28",
     "hijri_year": "1444"
   },
   {
     "order": 2,
     "name_en": "Safar",
     "name_bn": "সফর",
-    "start": "2021-09-09",
-    "end": "2021-10-08",
-    "hijri_year": "1443"
+    "start": "2022-08-29",
+    "end": "2022-09-27",
+    "hijri_year": "1444"
   },
   {
     "order": 3,
     "name_en": "Rabi Ul Awwal",
     "name_bn": "রবিউল আউয়াল",
-    "start": "2021-10-09",
-    "end": "2021-11-06",
-    "hijri_year": "1443"
+    "start": "2022-09-28",
+    "end": "2022-10-27",
+    "hijri_year": "1444"
   },
   {
     "order": 4,
