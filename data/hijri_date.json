@@ -51,33 +51,33 @@
     "order": 7,
     "name_en": "Rajab",
     "name_bn": "রজব",
-    "start": "2022-02-03",
-    "end": "2022-03-04",
+    "start": "2023-01-24",
+    "end": "2023-02-21",
     "hijri_year": "1444"
   },
   {
     "order": 8,
     "name_en": "Shaban",
     "name_bn": "শাবান",
-    "start": "2022-03-05",
-    "end": "2022-04-02",
-    "hijri_year": "1443"
+    "start": "2023-02-22",
+    "end": "2023-03-23",
+    "hijri_year": "1444"
   },
   {
     "order": 9,
     "name_en": "Ramadan",
     "name_bn": "রমাদান",
-    "start": "2022-04-03",
-    "end": "2022-05-02",
-    "hijri_year": "1443"
+    "start": "2023-03-24",
+    "end": "2023-04-21",
+    "hijri_year": "1444"
   },
   {
     "order": 10,
     "name_en": "Shawwal",
     "name_bn": "শাওয়াল",
-    "start": "2022-05-03",
-    "end": "2022-06-01",
-    "hijri_year": "1443"
+    "start": "2023-04-22",
+    "end": "2023-05-21",
+    "hijri_year": "1444"
   },
   {
     "order": 11,
