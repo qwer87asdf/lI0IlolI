@@ -1,0 +1,19 @@
+{
+  "content": {
+    "title": "শাবান মাসের চাঁদ দেখা গিয়েছে",
+    "subtitle": "<i>লাইলাতুন নিসফ মিন শাবান ১৫ তারিখে</i>",
+    "image": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/notification/image/tawbah.jpeg",
+    "body": "<p>Definition and Usage. The <body> tag defines the document's body. The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. Note: There can only be one <body> element in an HTML document.</p>"
+  },
+  "reference": [
+    {
+      "text": "Bukhari 2344",
+      "link": "https://bukhari.com/2344"
+    }
+  ],
+  "footer_button": {
+    "hint": "<p>দলিল সহ বিস্তারিত জেনে নিন শবে বরাতের আমল। শবে বরাতে করণীয় এবং বর্জনীয় বিষয়গুলো সম্পর্কে</p>",
+    "text": "শবে বরাত সম্পর্কে বিস্তারিত জানুন",
+    "link": "https://hellohasan.com/2016/07/04/শবে-বরাত-ফজিলত-আমল"
+  }
+}
