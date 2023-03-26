@@ -3052,13 +3052,13 @@
   "district_adjustment": [
     {
       "id": 8456,
-      "iftar": 2,
-      "sahri": 4
+      "iftar": 1,
+      "sahri": 5
     },
     {
       "id": 8457,
-      "iftar": -10,
-      "sahri": -4
+      "iftar": -9,
+      "sahri": -6
     },
     {
       "id": 8459,
@@ -3068,52 +3068,52 @@
     {
       "id": 8460,
       "iftar": -1,
-      "sahri": 2
+      "sahri": 1
     },
     {
       "id": 8465,
-      "iftar": -3,
-      "sahri": 1
-    },
-    {
-      "id": 8469,
-      "iftar": 6,
-      "sahri": 1
-    },
-    {
-      "id": 8470,
-      "iftar": -2,
-      "sahri": -3
-    },
-    {
-      "id": 8474,
       "iftar": -2,
       "sahri": 0
     },
     {
+      "id": 8469,
+      "iftar": 5,
+      "sahri": 3
+    },
+    {
+      "id": 8470,
+      "iftar": -3,
+      "sahri": -3
+    },
+    {
+      "id": 8474,
+      "iftar": -1,
+      "sahri": -1
+    },
+    {
       "id": 8475,
-      "iftar": 10,
-      "sahri": 6
+      "iftar": 9,
+      "sahri": 7
     },
     {
       "id": 8481,
       "iftar": -7,
-      "sahri": -2
+      "sahri": -4
     },
     {
       "id": 8482,
       "iftar": 6,
-      "sahri": 6
+      "sahri": 7
     },
     {
       "id": 8483,
-      "iftar": -3,
-      "sahri": -2
+      "iftar": -4,
+      "sahri": -3
     },
     {
       "id": 8485,
-      "iftar": -10,
-      "sahri": -1
+      "iftar": -9,
+      "sahri": -4
     },
     {
       "id": 8486,
@@ -3122,8 +3122,8 @@
     },
     {
       "id": 8487,
-      "iftar": 10,
-      "sahri": 2
+      "iftar": 8,
+      "sahri": 4
     },
     {
       "id": 8490,
@@ -3132,18 +3132,18 @@
     },
     {
       "id": 8492,
-      "iftar": -4,
-      "sahri": -2
+      "iftar": -5,
+      "sahri": -4
     },
     {
       "id": 8494,
-      "iftar": 6,
-      "sahri": -1
+      "iftar": 4,
+      "sahri": 1
     },
     {
       "id": 8496,
       "iftar": 0,
-      "sahri": 0
+      "sahri": -1
     },
     {
       "id": 8497,
@@ -3152,77 +3152,77 @@
     },
     {
       "id": 8498,
-      "iftar": -3,
-      "sahri": -4
+      "iftar": -4,
+      "sahri": -5
     },
     {
       "id": 8502,
-      "iftar": 4,
-      "sahri": -1
+      "iftar": 3,
+      "sahri": 0
     },
     {
       "id": 8504,
-      "iftar": 5,
+      "iftar": 4,
       "sahri": 5
     },
     {
       "id": 8505,
       "iftar": 0,
-      "sahri": 3
+      "sahri": 2
     },
     {
       "id": 8506,
-      "iftar": 5,
+      "iftar": 4,
       "sahri": 5
     },
     {
       "id": 8509,
-      "iftar": 8,
-      "sahri": 2
-    },
-    {
-      "id": 8512,
-      "iftar": -7,
-      "sahri": -5
-    },
-    {
-      "id": 8514,
-      "iftar": 3,
-      "sahri": 5
-    },
-    {
-      "id": 8516,
-      "iftar": 0,
-      "sahri": -3
-    },
-    {
-      "id": 8517,
-      "iftar": 7,
-      "sahri": -1
-    },
-    {
-      "id": 8518,
       "iftar": 6,
       "sahri": 4
     },
     {
-      "id": 8521,
-      "iftar": -2,
+      "id": 8512,
+      "iftar": -7,
+      "sahri": -6
+    },
+    {
+      "id": 8514,
+      "iftar": 3,
+      "sahri": 4
+    },
+    {
+      "id": 8516,
+      "iftar": -1,
+      "sahri": -3
+    },
+    {
+      "id": 8517,
+      "iftar": 5,
       "sahri": 0
     },
     {
-      "id": 8524,
-      "iftar": 8,
+      "id": 8518,
+      "iftar": 5,
+      "sahri": 5
+    },
+    {
+      "id": 8521,
+      "iftar": -3,
       "sahri": -1
     },
     {
+      "id": 8524,
+      "iftar": 5,
+      "sahri": 2
+    },
+    {
       "id": 8527,
-      "iftar": 1,
+      "iftar": 0,
       "sahri": 2
     },
     {
       "id": 8528,
-      "iftar": 4,
+      "iftar": 3,
       "sahri": 4
     },
     {
@@ -3237,23 +3237,23 @@
     },
     {
       "id": 8533,
-      "iftar": -3,
+      "iftar": -5,
       "sahri": -6
     },
     {
       "id": 8540,
-      "iftar": 0,
-      "sahri": 0
+      "iftar": -1,
+      "sahri": -1
     },
     {
       "id": 8541,
-      "iftar": 2,
-      "sahri": -3
+      "iftar": 0,
+      "sahri": -2
     },
     {
       "id": 8545,
-      "iftar": 8,
-      "sahri": 3
+      "iftar": 7,
+      "sahri": 4
     },
     {
       "id": 8546,
@@ -3262,32 +3262,32 @@
     },
     {
       "id": 8547,
-      "iftar": 0,
+      "iftar": -1,
       "sahri": 0
     },
     {
       "id": 8548,
       "iftar": -1,
-      "sahri": -1
+      "sahri": -2
     },
     {
       "id": 8549,
+      "iftar": 6,
+      "sahri": 5
+    },
+    {
+      "id": 8551,
+      "iftar": -1,
+      "sahri": -3
+    },
+    {
+      "id": 8552,
       "iftar": 7,
       "sahri": 4
     },
     {
-      "id": 8551,
-      "iftar": 0,
-      "sahri": -4
-    },
-    {
-      "id": 8552,
-      "iftar": 10,
-      "sahri": 1
-    },
-    {
       "id": 8553,
-      "iftar": -2,
+      "iftar": -4,
       "sahri": -1
     },
     {
@@ -3297,78 +3297,78 @@
     },
     {
       "id": 8560,
-      "iftar": 12,
-      "sahri": 1
+      "iftar": 9,
+      "sahri": 3
     },
     {
       "id": 8565,
       "iftar": -1,
-      "sahri": 4
+      "sahri": 2
     },
     {
       "id": 8567,
       "iftar": 0,
-      "sahri": 4
+      "sahri": 3
     },
     {
       "id": 8573,
-      "iftar": 5,
-      "sahri": 4
+      "iftar": 4,
+      "sahri": 5
     },
     {
       "id": 8574,
-      "iftar": 8,
-      "sahri": 5
+      "iftar": 7,
+      "sahri": 6
     },
     {
       "id": 8576,
       "iftar": -8,
-      "sahri": -4
+      "sahri": -6
     },
     {
       "id": 8577,
-      "iftar": 8,
-      "sahri": 0
+      "iftar": 5,
+      "sahri": 3
     },
     {
       "id": 8587,
-      "iftar": 5,
-      "sahri": 7
+      "iftar": 4,
+      "sahri": 6
     },
     {
       "id": 8589,
       "iftar": -1,
-      "sahri": 2
-    },
-    {
-      "id": 8590,
-      "iftar": 3,
-      "sahri": -1
-    },
-    {
-      "id": 8593,
-      "iftar": 4,
       "sahri": 1
     },
     {
+      "id": 8590,
+      "iftar": 2,
+      "sahri": 0
+    },
+    {
+      "id": 8593,
+      "iftar": 3,
+      "sahri": 2
+    },
+    {
       "id": 8595,
-      "iftar": -1,
+      "iftar": -3,
       "sahri": -6
     },
     {
       "id": 8596,
-      "iftar": -4,
-      "sahri": -7
+      "iftar": -5,
+      "sahri": -8
     },
     {
       "id": 8599,
-      "iftar": 3,
-      "sahri": 0
+      "iftar": 2,
+      "sahri": 1
     },
     {
       "id": 8601,
-      "iftar": 12,
-      "sahri": 2
+      "iftar": 9,
+      "sahri": 4
     }
   ]
 }
