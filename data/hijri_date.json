@@ -68,14 +68,14 @@
     "name_en": "Ramadan",
     "name_bn": "রমাদান",
     "start": "2023-03-24",
-    "end": "2023-04-22",
+    "end": "2023-04-21",
     "hijri_year": "1444"
   },
   {
     "order": 10,
     "name_en": "Shawwal",
     "name_bn": "শাওয়াল",
-    "start": "2023-04-23",
+    "start": "2023-04-22",
     "end": "2023-05-21",
     "hijri_year": "1444"
   },
