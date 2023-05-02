@@ -83,16 +83,16 @@
     "order": 11,
     "name_en": "Jilqaq",
     "name_bn": "জিলকদ",
-    "start": "2022-06-02",
-    "end": "2022-06-30",
+    "start": "2023-05-22",
+    "end": "2023-06-19",
     "hijri_year": "1444"
   },
   {
     "order": 12,
     "name_en": "Jilhajj",
     "name_bn": "জিলহজ্জ",
-    "start": "2022-07-01",
-    "end": "2022-07-30",
-    "hijri_year": "1443"
+    "start": "2023-06-20",
+    "end": "2023-07-19",
+    "hijri_year": "1444"
   }
 ]
