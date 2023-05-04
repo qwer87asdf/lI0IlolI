@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "start": 202304262225,
+    "end": 202404270000,
+    "count": 1,
+    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+  },
+  {
+    "id": 2,
+    "start": 202304262225,
+    "end": 202304270000,
+    "count": 2,
+    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+  },
+  {
+    "id": 3,
+    "start": 202304262225,
+    "end": 202504270000,
+    "count": 3,
+    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+  }
+]
