@@ -22,5 +22,13 @@
     "end": 202504270000,
     "count": 3,
     "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+  },
+  {
+    "id": 4,
+    "name": "Lailatun Nisf Min Shaban",
+    "start": 202305050000,
+    "end": 202305062359,
+    "count": 3,
+    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
   }
 ]
