@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "name": "Eid Ul Fitr",
     "start": 202304262225,
     "end": 202404270000,
     "count": 1,
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "name": "Eid Ul Adha",
     "start": 202304262225,
     "end": 202304270000,
     "count": 2,
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "name": "Lailatun Nisf Min Shaban",
     "start": 202304262225,
     "end": 202504270000,
     "count": 3,
