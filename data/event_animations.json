@@ -5,7 +5,7 @@
     "from": 202305201246,
     "to": 202305201300,
     "count": 20,
-    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+    "animation_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/event-animation-data/celebration.json"
   },
   {
     "key": "eid_ul_adha",
@@ -13,7 +13,7 @@
     "from": 202305231200,
     "to": 202305241300,
     "count": 20,
-    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+    "animation_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/event-animation-data/celebration.json"
   },
   {
     "key": "eid_ul_fitar",
@@ -21,6 +21,6 @@
     "from": 202305201246,
     "to": 202305221300,
     "count": 2,
-    "animation_url": "https://raw.githubusercontent.com/temp-user-1260/muslims_day_test/main/special_animation_data.json"
+    "animation_url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/event-animation-data/celebration.json"
   }
 ]
