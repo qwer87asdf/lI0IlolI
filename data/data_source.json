@@ -43,5 +43,10 @@
     "name": "daily_notification",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/local_notification.json",
     "updated_at": 1615798057
+  },
+  {
+    "name": "event_animations",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/event_animations.json",
+    "updated_at": 1690681584
   }
 ]
