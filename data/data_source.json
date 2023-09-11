@@ -48,5 +48,10 @@
     "name": "event_animations",
     "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/data/event_animations.json",
     "updated_at": 1690681584
+  },
+  {
+    "name": "blog_category_image",
+    "url": "https://raw.githubusercontent.com/qwer87asdf/lI0IlolI/master/image/blog-category",
+    "updated_at": 1694435898
   }
 ]
